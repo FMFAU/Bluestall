@@ -1,4 +1,4 @@
-# Advanced Uninstaller
+# Advanced Uninstaller : Bluestall
 
 A modern application uninstaller with a beautiful UI built using CustomTkinter. This application helps you manage and uninstall programs installed on your Windows system, with additional cleanup features.
 
@@ -21,8 +21,10 @@ A modern application uninstaller with a beautiful UI built using CustomTkinter. 
 
 ## Installation
 
-1. Clone or download this repository
+1. Download from Releases
 2. Install the required dependencies:
+   Run Install Requirements.py
+     or
    ```
    pip install -r requirements.txt
    ```
@@ -31,7 +33,7 @@ A modern application uninstaller with a beautiful UI built using CustomTkinter. 
 
 1. Run the application:
    ```
-   python uninstaller.py
+   BluestallMain.exe
    ```
 
 2. The application will automatically load all installed programs
