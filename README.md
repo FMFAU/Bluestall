@@ -47,6 +47,7 @@ A modern application uninstaller with a beautiful UI built using CustomTkinter. 
 ## Note
 
 This application requires administrative privileges to uninstall programs and clean up leftover files. Make sure to run it with appropriate permissions.
+And this may give you a Windows Protected Your PC from malware due to it not being signed by a developer. This isn't a virus and is fully open source.
 
 ## License
 
