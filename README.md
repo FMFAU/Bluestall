@@ -18,6 +18,8 @@ A modern application uninstaller with a beautiful UI built using CustomTkinter. 
 - Windows operating system
 - Required Python packages (install using `pip install -r requirements.txt`):
   - customtkinter==5.2.1
+  - pywin32==310
+  - psutil==5.9.5 
 
 ## Installation
 
